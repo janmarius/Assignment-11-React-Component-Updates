@@ -1,4 +1,5 @@
-# React example with component state
+# Assignment 11 - React Component Updates
+[https://gitlab.com/tdat2003/react-state](https://gitlab.com/tdat2003/react-state)
 
 ## Prerequisites
 * Flow and Prettier installed globally:
@@ -9,8 +10,8 @@ npm install -g flow-bin prettier
 
 ## Fetch, install dependencies, and run
 ```sh
-git clone https://gitlab.com/tdat2003/react-state
-cd react-state
+git clone https://github.com/janmarius/Assignment-11-React-Component-Updates
+cd Assignment-11-React-Component-Updates
 npm install
 npm start
 ```
